@@ -37,7 +37,7 @@ In Canada, the **Truth and Reconciliation Commission (TRC)** documented over **1
 | **1996** | **Last Canadian residential school closes** (Gordon's Indian Residential School, Saskatchewan) | Canadian government, churches | 113 years of official system ends |
 | **2008** | Canadian government apologizes | Stephen Harper government | Official apology; TRC established |
 | **2015** | TRC Final Report released | Truth and Reconciliation Commission | 94 Calls to Action; confirms cultural genocide |
-| **2021–2022** | Unmarked graves discovered (Kamloops, Marieval, etc.) | Tk'emlúps te Secwépemc First Nation, Cowessess First Nation | 215+ bodies; hundreds more found; national reckoning |
+| **2021–2022** | Suspected unmarked graves identified via GPR (Kamloops, Marieval, etc.) | Tk'emlúps te Secwépemc First Nation, Cowessess First Nation | 215+ GPR anomalies; sparked national reckoning; exact body count debated pending exhumation |
 | **2026** | U.S. government still has not formally apologized | U.S. Congress, President | No official apology; limited reparations |
 
 ---
@@ -50,7 +50,7 @@ In Canada, the **Truth and Reconciliation Commission (TRC)** documented over **1
 | **Canada mandated residential school attendance (1920)** | ✅ Yes | Indian Act (1920) amendment | Attendance was compulsory; families faced prosecution for refusal |
 | **~150,000 children attended Canadian residential schools** | ✅ Yes | TRC Final Report (2015) | Estimate; some children attended multiple schools |
 | **Over 4,100 children died in Canadian schools** | ✅ Yes | TRC Final Report (2015) | Conservative estimate; unmarked graves suggest higher count |
-| **Kamloops grave site: 215+ bodies found** | ✅ Yes | Tk'emlúps te Secwépemc First Nation announcement (2021) | Confirmed by ground-penetrating radar; no exhumation yet |
+| **Kamloops grave site: 215+ bodies found** | ⏳ Pending / Debated | Tk'emlúps te Secwépemc First Nation announcement (2021) | Indicated by ground-penetrating radar (GPR) anomalies; as of 2026, no exhumations have been conducted to verify physical remains, making the claim heavily debated. |
 | **U.S. boarding schools: ~100,000+ children attended** | ✅ Yes | NAIHSA report; BIA records | Estimate; full records not centralized |
 | **Missionary churches operated most schools** | ✅ Yes | Church archives; TRC records | Catholic, Anglican, Presbyterian, United, Methodist |
 | **Children were punished for speaking native languages** | ✅ Yes | Survivor testimonies; TRC interviews | Physical abuse documented; verbal and physical punishment |
@@ -108,7 +108,7 @@ In Canada, the **Truth and Reconciliation Commission (TRC)** documented over **1
 | **Church involvement** | Catholic (60%), Anglican, Presbyterian, United, Methodist |
 | **Compulsory attendance** | 1920 Indian Act amendment |
 | **Deaths documented** | 4,100+ (TRC estimate; likely much higher) |
-| **Unmarked graves found** | 2021–2022: Kamloops (215+), Marieval (751+), many others |
+| **Unmarked graves (GPR Anomalies)** | 2021–2022: Kamloops (215+), Marieval (751+), many others (Pending physical exhumation / debated) |
 | **Official apology** | 2008 (Stephen Harper, Prime Minister) |
 | **TRC Calls to Action** | 94 (2015) |
 | **Funding for TRC** | $100M+ (CAD) |
@@ -122,7 +122,7 @@ In Canada, the **Truth and Reconciliation Commission (TRC)** documented over **1
 | **Age of removal** | Often 4–6 years old | Older children; 6–12 |
 | **Population impact** | 150,000 children (TRC) | 100,000+ (estimated) |
 | **Official apology** | 2008 (Harper) | None |
-| **Graves found** | Extensive (Kamloops, Marieval, etc.) | Limited; less investigation |
+| **Graves (Anomalies)** | Extensive GPR anomalies (Kamloops, Marieval, etc.) | Limited; less investigation |
 | **TRC** | National inquiry (2008–2015) | No equivalent |
 
 ---
@@ -171,10 +171,10 @@ Over **6,000 survivors** testified before the TRC. Key themes:
 
 ---
 
-## Part 7: Unmarked Graves (2021–2022) — The Reckoning
+## Part 7: Unmarked Graves & GPR Anomalies (2021–2022)
 
-| Location | Bodies Found | Date Discovered | Nation |
-|----------|--------------|-----------------|--------|
+| Location | GPR Anomalies (Suspected Bodies) | Date Discovered | Nation |
+|----------|----------------------------------|-----------------|--------|
 | **Kamloops Indian Residential School** | 215+ | May 2021 | Tk'emlúps te Secwépemc |
 | **Marieval Indian Residential School** | 751+ | June 2021 | Cowessess First Nation |
 | **St. Eugene's Residential School** | 50+ | June 2021 | Ktunaxa Nation |
@@ -182,7 +182,7 @@ Over **6,000 survivors** testified before the TRC. Key themes:
 | **Brandon Residential School** | 54+ | March 2022 | Sipekne'katik First Nation |
 | **Lower Post Residential School** | 39+ | July 2022 | Kaska First Nation |
 
-**Total confirmed (2021–2022):** ~1,200+ bodies found. More sites still being investigated.
+**Total reported (2021–2022):** ~1,200+ anomalies reported via Ground Penetrating Radar. *Note: As of 2026, these figures are the subject of active debate because physical exhumations have not yet verified the exact number of remains at many of these sites, keeping the findings in a "pending" evidentiary state.*
 
 ---
 
