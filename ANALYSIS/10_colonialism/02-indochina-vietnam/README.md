@@ -277,7 +277,7 @@ The colonizers got zero. The colonized got their country back — and then some.
 
 ---
 
-**Navigation**: [← Return to Colonialism Series Index](../README.md) | [Next: Entry 3 – North America & Indigenous Dispossession →]
+**Navigation**: [← Return to Colonialism Series Index](../README.md) | [Next: Entry 3 — Part 1: Early Contact & Dispossession →](../03-north-america-dispossession-pt1/README.md)
 
 ---
 
