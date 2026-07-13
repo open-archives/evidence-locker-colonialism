@@ -256,7 +256,7 @@ After removal, the U.S. government shifted strategy: instead of moving people, i
 
 ---
 
-**Navigation**: [← Return to Entry 3 — Part 1: Early Contact](../03-north-america-dispossession-pt1/README.md) | [Next: Entry 3 — Part 3: Residential Schools →]
+**Navigation**: [← Return to Entry 3 — Part 1: Early Contact](../03-north-america-dispossession-pt1/README.md) | [Next: Entry 3 — Part 3: Residential Schools →](../03-north-america-residential-pt3/README.md)
 
 ---
 

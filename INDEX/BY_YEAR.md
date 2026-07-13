@@ -9,6 +9,9 @@
 ## 1858-1975 (Historical Tracking)
 - [Evidence Locker Entry 2: Indochina & The Vietnam War (1945-1975)](../ANALYSIS/10_colonialism/02-indochina-vietnam/README.md)
 
+## 1880s-1996 (Historical Tracking)
+- [Evidence Locker Entry 3 — Part 3: Residential Schools & Cultural Genocide (1880s–1996)](../ANALYSIS/10_colonialism/03-north-america-residential-pt3/README.md)
+
 ## 1884-1885 (Historical Tracking)
 - [Evidence Locker Entry 1: The Berlin Conference (1884-1885)](../ANALYSIS/10_colonialism/01-berlin-conference/README.md)
 
