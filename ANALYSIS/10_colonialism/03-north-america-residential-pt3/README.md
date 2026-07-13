@@ -273,7 +273,7 @@ Over **6,000 survivors** testified before the TRC. Key themes:
 
 ---
 
-**Navigation**: [← Return to Entry 3 — Part 2: Removal Era](../03-north-america-removal-pt2/README.md) | [Next: Entry 3 — Part 4: Modern Legacies →]
+**Navigation**: [← Return to Entry 3 — Part 2: Removal Era](../03-north-america-removal-pt2/README.md) | [Next: Entry 3 — Part 4: Modern Legacies →](../03-north-america-modern-pt4/README.md)
 
 ---
 

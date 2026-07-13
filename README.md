@@ -51,7 +51,7 @@ ANALYSIS/10_colonialism/
 | **03-Pt1** | North America — Early Contact | ✅ Published |
 | **03-Pt2** | North America — Removal Era | ✅ Published |
 | **03-Pt3** | North America — Residential Schools | ✅ Published |
-| **03-Pt4** | North America — Modern Legacies | ⏳ Coming |
+| **03-Pt4** | North America — Modern Legacies | ✅ Published |
 | **04** | South America — Encomienda / Potosí | ⏳ Planned |
 | **05** | Religious Missionaries | ⏳ Planned |
 | **06** | Post-Colonial Economics (IMF/World Bank) | ⏳ Planned |

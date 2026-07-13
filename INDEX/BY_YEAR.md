@@ -6,6 +6,9 @@
 ## 1830-1890 (Historical Tracking)
 - [Evidence Locker Entry 3 — Part 2: The Removal Era (1830–1890)](../ANALYSIS/10_colonialism/03-north-america-removal-pt2/README.md)
 
+## 1960s-2026 (Historical Tracking)
+- [Evidence Locker Entry 3 — Part 4: Modern Legacies (1960s–2026)](../ANALYSIS/10_colonialism/03-north-america-modern-pt4/README.md)
+
 ## 1858-1975 (Historical Tracking)
 - [Evidence Locker Entry 2: Indochina & The Vietnam War (1945-1975)](../ANALYSIS/10_colonialism/02-indochina-vietnam/README.md)
 
