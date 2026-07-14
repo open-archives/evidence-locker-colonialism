@@ -83,10 +83,7 @@ French colonial rule in Indochina (Vietnam, Laos, Cambodia) began in 1858 and in
 | **Modern Vietnamese economy chart** | GDP growth vs. colonial-era extraction | World Bank data | ⏳ Pending |
 | **U.S. foreign aid to France (1950–54) chart** | Annual breakdown of CIA/State Dept funding | Declassified budget records | ⏳ Pending |
 
-**Ready Links (for research):**
-- [U.S. National Archives Vietnam War records](https://www.archives.gov/research/vietnam-war)
-- [Agent Orange Vietnam Ministry of Health data](https://www.va.gov/agentorange)
-- [UNHCR Boat People statistics](https://www.unhcr.org/asia)
+**Ready Links:**
 - [Geneva Accords full text (1954)](https://web.archive.org/web/20260308184557/https://avalon.law.yale.edu/20th_century/inch004.asp)
 
 ---

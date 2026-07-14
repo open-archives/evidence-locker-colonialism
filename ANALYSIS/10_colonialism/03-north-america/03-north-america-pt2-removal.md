@@ -90,7 +90,7 @@ The most infamous episode — the **Cherokee Trail of Tears (1838–1839)** — 
 | **Graph: Land loss 1887–1934** | ~86 million acres lost | Stanford / NPS | ⏳ Pending — **research needed** |
 
 **Ready Links:**
-- [NPS Trail of Tears National Historic Trail](https://www.nps.gov/trte/index.htm)
+- [Wikimedia — Trail of Tears Map (Archived)](https://web.archive.org/web/20260714172352/https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Trails_of_Tears_en.png/1920px-Trails_of_Tears_en.png)
 - [National Archives — Indian Removal Act](https://web.archive.org/web/20260714162856/https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal)
 - [Cornell LII — *Worcester v. Georgia*](https://web.archive.org/web/20260714162648/https://www.law.cornell.edu/supremecourt/text/31/515)
 - [Potawatomi Trail of Death website](https://web.archive.org/web/20260714163303/https://www.potawatomi.org/blog/2022/09/16/trail-of-death-caravan-readies-for-next-observance/)

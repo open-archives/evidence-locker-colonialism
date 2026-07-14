@@ -16,7 +16,7 @@
 | Britannica Scramble for Africa | Encyclopedia | https://web.archive.org/web/20260714154735/https://www.britannica.com/event/Scramble-for-Africa | Pending | Fair Use |
 | Britannica Berlin Conference | Encyclopedia | https://web.archive.org/web/20260714165724/https://www.britannica.com/event/Berlin-West-Africa-Conference | Pending | Fair Use |
 | Icarus Films Documentary | Film | https://www.icarusfilms.com/new2016/berlin | Pending | Licensed |
-| Al Jazeera 2025 Analysis | Article | https://web.archive.org/web/20260714160534/https://web.archive.org/web/20260714160534/https://www.aljazeera.com/news/2025/2/26/colonising-africa-what-happened-at-the-berlin-conference-of-1884-1885-what-happened-at-the-berlin-conference-of-1884-1885 | Pending | Editorial Use |
+| Al Jazeera 2025 Analysis | Article | https://web.archive.org/web/20260714160534/https://www.aljazeera.com/news/2025/2/26/colonising-africa-what-happened-at-the-berlin-conference-of-1884-1885 | Pending | Editorial Use |
 
 ## Recommended Research Databases
 

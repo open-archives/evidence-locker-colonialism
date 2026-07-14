@@ -81,8 +81,7 @@ The colonization of North America began with competing European claims (Spain, F
 - [Native Land Digital — interactive map](https://native-land.ca)
 - [Library of Congress — Royal Proclamation Map (1763)](https://web.archive.org/web/20260714162653/https://www.loc.gov/item/74694799/)
 - [National Archives — American Indian Treaties Portal](https://www.archives.gov/research/native-americans/treaties)
-- [Cornell LII — *Johnson v. McIntosh* text](https://archive.org/details/https://www.law.cornell.edu/supremecourt/text/21/543)
-- [Smithsonian — Native American History & Culture](https://americanindian.si.edu/)
+- [Justia Supreme Court — *Johnson v. M'Intosh* text](https://supreme.justia.com/cases/federal/us/21/543/)
 
 ---
 

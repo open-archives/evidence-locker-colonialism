@@ -75,9 +75,6 @@ The colonial project in North America didn't end with the closure of residential
 | **Document: U.S. apology resolution (proposed)** | Not passed | U.S. Congress | ⏳ Pending |
 
 **Ready Links:**
-- [Native Land Digital — interactive map](https://native-land.ca)
-- [U.S. Bureau of Indian Affairs](https://www.bia.gov)
-- [Indigenous Environmental Network](https://www.ienearth.org)
 - [TRC Calls to Action progress (2026)](https://web.archive.org/web/20260714163438/https://www.rcaanc-cirnac.gc.ca/eng/1524494530110/1557511412801) — pending update
 
 ---

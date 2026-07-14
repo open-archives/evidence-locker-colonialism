@@ -87,7 +87,7 @@ The Berlin Conference convened 14 European powers plus the United States from No
 - [Britannica: Berlin Conference](https://web.archive.org/web/20260714165724/https://www.britannica.com/event/Berlin-West-Africa-Conference)
 - [General Act of Berlin PDF](https://web.archive.org/web/20260708201229/https://loveman.sdsu.edu/docs/1885GeneralActBerlinConference.pdf)
 - [World History Encyclopedia Entry](https://web.archive.org/web/20260714153947/https://www.worldhistory.org/Berlin_Conference_1884-5/)
-- [Al Jazeera Analysis](https://web.archive.org/web/20260714160534/https://web.archive.org/web/20260714160534/https://www.aljazeera.com/news/2025/2/26/colonising-africa-what-happened-at-the-berlin-conference-of-1884-1885-what-happened-at-the-berlin-conference-of-1884-1885)
+- [Al Jazeera Analysis](https://web.archive.org/web/20260714160534/https://www.aljazeera.com/news/2025/2/26/colonising-africa-what-happened-at-the-berlin-conference-of-1884-1885)
 - [YouTube Documentary Trailer](https://web.archive.org/web/20260714155101/https://www.youtube.com/watch?v=FTjBNppdk-M)
 
 ---
@@ -133,7 +133,7 @@ The Berlin Conference convened 14 European powers plus the United States from No
 | "Scramble for Africa" | Encyclopedia Entry | [Britannica](https://web.archive.org/web/20260714154735/https://www.britannica.com/event/Scramble-for-Africa) |
 | Hochschild, Adam (1998) | Book: King Leopold's Ghost | Published analysis, widely cited |
 | "Berlin 1885: Division of Africa" | Documentary | [Icarus Films](https://www.icarusfilms.com) |
-| Al Jazeera (2025) | Scholarly article | [aljazeera.com](https://web.archive.org/web/20260714160534/https://web.archive.org/web/20260714160534/https://www.aljazeera.com/news/2025/2/26/colonising-africa-what-happened-at-the-berlin-conference-of-1884-1885-what-happened-at-the-berlin-conference-of-1884-1885) |
+| Al Jazeera (2025) | Scholarly article | [aljazeera.com](https://web.archive.org/web/20260714160534/https://www.aljazeera.com/news/2025/2/26/colonising-africa-what-happened-at-the-berlin-conference-of-1884-1885) |
 
 ### Academic References
 

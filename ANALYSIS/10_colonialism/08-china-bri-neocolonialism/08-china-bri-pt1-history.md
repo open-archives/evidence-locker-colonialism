@@ -135,7 +135,7 @@ China's massive chemical and pharmaceutical sector makes it a primary global sou
 
 **Ready Links (for research):**
 - [Belt and Road Initiative — World Bank](https://web.archive.org/web/20260326125442/https://documents1.worldbank.org/curated/en/126471554923176405/pdf/The-Belt-and-Road-Initiative-Economic-Poverty-and-Environmental-Impacts.pdf)
-- [China-Pakistan Economic Corridor — Center for Strategic & International Studies](https://web.archive.org/web/20260714161204/https://web.archive.org/web/20260714161204/https://www.csis.org/analysis/china-pakistan-economic-corridor-five)
+- [China-Pakistan Economic Corridor — Center for Strategic & International Studies](https://web.archive.org/web/20260714161204/https://www.csis.org/analysis/china-pakistan-economic-corridor-five)
 - [Opium Wars — Britannica](https://web.archive.org/web/20260714161338/https://www.britannica.com/topic/Opium-Wars)
 - [Treaty of Nanjing full text](https://web.archive.org/web/20260714162046/https://www.loc.gov/item/2021667601/)
 
