@@ -200,7 +200,7 @@ Over **6,000 survivors** testified before the TRC. Key themes:
 | **Grave site: Kamloops (2021)** | Ground-penetrating radar images | Tk'emlúps te Secwépemc | ⏳ Pending |
 
 **Ready Links:**
-- [TRC Final Report (2015) — full text](https://nctr.ca/records/reports/)
+- [TRC Final Report (2015) — full text](https://web.archive.org/web/20260714163245/https://nctr.ca/publications-and-reports/reports/)
 - [National Centre for Truth and Reconciliation](https://nctr.ca/)
 - [Carlisle Indian School Digital Archives](https://carlisleindian.dickinson.edu/)
 - [NAIHSA — U.S. boarding schools database](https://boardschools.org/)

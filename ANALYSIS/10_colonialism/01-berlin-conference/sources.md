@@ -4,7 +4,7 @@
 
 | Source | Type | URL | Access Date | License |
 |--------|------|-----|-------------|---------|
-| General Act of the Berlin Conference | Treaty Text | https://en.wikisource.org/wiki/General_Act_of_the_Berlin_Conference | Pending | Public Domain |
+| General Act of the Berlin Conference | Treaty Text | https://web.archive.org/web/20260708201229/https://loveman.sdsu.edu/docs/1885GeneralActBerlinConference.pdf | Pending | Public Domain |
 | Conference Proceedings 1884-85 | Official Minutes | German Federal Archives | Research Request | Archival |
 | Diplomatic Correspondence | Letters/Memos | UK National Archives | Research Request | Archival |
 
@@ -12,11 +12,11 @@
 
 | Source | Type | URL | Access Date | License |
 |--------|------|-----|-------------|---------|
-| World History Encyclopedia Entry | Encyclopedia | https://www.worldhistory.org/Berlin_Conference_1884-5/ | Pending | CC-BY-SA |
-| British Library Scramble for Africa | Research Portal | https://www.bl.uk/world-conferences/colonial-empire-scramble-for-africa | Pending | Fair Use |
-| PBS LearningMedia Lesson | Educational Video | https://www.pbslearningmedia.org/resource/6031c3a2-ada9-42b4-8045-52006e2a2b07/ | Pending | Educational |
+| World History Encyclopedia Entry | Encyclopedia | https://web.archive.org/web/20260714153947/https://www.worldhistory.org/Berlin_Conference_1884-5/ | Pending | CC-BY-SA |
+| Britannica Scramble for Africa | Encyclopedia | https://web.archive.org/web/20260714154735/https://www.britannica.com/event/Scramble-for-Africa | Pending | Fair Use |
+| Britannica Berlin Conference | Encyclopedia | https://web.archive.org/web/20260714165724/https://www.britannica.com/event/Berlin-West-Africa-Conference | Pending | Fair Use |
 | Icarus Films Documentary | Film | https://www.icarusfilms.com/new2016/berlin | Pending | Licensed |
-| Al Jazeera 2025 Analysis | Article | https://www.aljazeera.com/news/2025/2/26/colonising-africa | Pending | Editorial Use |
+| Al Jazeera 2025 Analysis | Article | https://web.archive.org/web/20260714160534/https://web.archive.org/web/20260714160534/https://www.aljazeera.com/news/2025/2/26/colonising-africa-what-happened-at-the-berlin-conference-of-1884-1885-what-happened-at-the-berlin-conference-of-1884-1885 | Pending | Editorial Use |
 
 ## Recommended Research Databases
 

@@ -78,7 +78,7 @@ The colonial project in North America didn't end with the closure of residential
 - [Native Land Digital — interactive map](https://native-land.ca)
 - [U.S. Bureau of Indian Affairs](https://www.bia.gov)
 - [Indigenous Environmental Network](https://www.ienearth.org)
-- [TRC Calls to Action progress (2026)](https://nctr.ca/calls-to-action/) — pending update
+- [TRC Calls to Action progress (2026)](https://web.archive.org/web/20260714163438/https://www.rcaanc-cirnac.gc.ca/eng/1524494530110/1557511412801) — pending update
 
 ---
 

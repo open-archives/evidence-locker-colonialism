@@ -87,7 +87,7 @@ French colonial rule in Indochina (Vietnam, Laos, Cambodia) began in 1858 and in
 - [U.S. National Archives Vietnam War records](https://www.archives.gov/research/vietnam-war)
 - [Agent Orange Vietnam Ministry of Health data](https://www.va.gov/agentorange)
 - [UNHCR Boat People statistics](https://www.unhcr.org/asia)
-- [Geneva Accords full text (1954)](https://www.mtholyoke.edu/acad/intrel/geneva.htm)
+- [Geneva Accords full text (1954)](https://web.archive.org/web/20260308184557/https://avalon.law.yale.edu/20th_century/inch004.asp)
 
 ---
 
@@ -124,7 +124,7 @@ French colonial rule in Indochina (Vietnam, Laos, Cambodia) began in 1858 and in
 
 | Source | Type | URL / Location | Access Status |
 |--------|------|----------------|---------------|
-| Geneva Accords (1954) | Treaty | [Mt. Holyoke College digital archive](https://www.mtholyoke.edu/acad/intrel/geneva.htm) | Public |
+| Geneva Accords (1954) | Treaty | [Yale Law Avalon Project](https://web.archive.org/web/20260308184557/https://avalon.law.yale.edu/20th_century/inch004.asp) | Public |
 | U.S. Operations Reports – Vietnam | Declassified military records | National Archives – RG 472 | Research request |
 | French Colonial Archives | Government correspondence | Centre des Archives d’Outre‑Mer (Aix‑en‑Provence) | Research request |
 | Agent Orange – Ranch Hand records | Operational logs | U.S. Air Force Historical Research Agency | Partially declassified |

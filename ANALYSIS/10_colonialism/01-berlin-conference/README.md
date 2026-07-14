@@ -19,7 +19,7 @@ The Berlin Conference convened 14 European powers plus the United States from No
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| **Duration** | 15 Nov 1884 – 26 Feb 1885 (103 days) | [Conference minutes](https://en.wikisource.org/wiki/General_Act_of_the_Berlin_Conference) |
+| **Duration** | 15 Nov 1884 – 26 Feb 1885 (103 days) | [Conference minutes](https://web.archive.org/web/20260708201229/https://loveman.sdsu.edu/docs/1885GeneralActBerlinConference.pdf) |
 | **Location** | Berlin, German Empire | British Library archives |
 | **Attendees** | 14 nations (zero African representation) | Treaty signatories registry |
 | **Primary Host** | Otto von Bismarck (German Chancellor) | German Federal Archives |
@@ -65,7 +65,7 @@ The Berlin Conference convened 14 European powers plus the United States from No
 | **1900** | ~90% | Scramble completed |
 | **1914** | ~95% | Only Ethiopia/Liberia independent |
 
-*Source:* [British Library "Scramble for Africa"](https://www.bl.uk/world-conferences/colonial-empire-scramble-for-africa)
+*Source:* [Britannica "Scramble for Africa"](https://web.archive.org/web/20260714154735/https://www.britannica.com/event/Scramble-for-Africa)
 
 ---
 
@@ -83,10 +83,12 @@ The Berlin Conference convened 14 European powers plus the United States from No
 | **Icarus Films doc** | "Berlin 1885: Division of Africa" | YouTube | 🔗 Ready link |
 
 **Links Ready for Retrieval:**
-- [PBS LearningMedia Lesson](https://www.pbslearningmedia.org/resource/6031c3a2-ada9-42b4-8045-52006e2a2b07/berlin-conference-1884-85/)
-- [YouTube Documentary Trailer](https://www.youtube.com/watch?v=FTjBNppdk-M)
-- [World History Encyclopedia Entry](https://www.worldhistory.org/Berlin_Conference_1884-5/)
-- [Al Jazeera 2025 Analysis](https://www.aljazeera.com/news/2025/2/26/colonising-africa)
+- [Britannica: Scramble for Africa](https://web.archive.org/web/20260714154735/https://www.britannica.com/event/Scramble-for-Africa)
+- [Britannica: Berlin Conference](https://web.archive.org/web/20260714165724/https://www.britannica.com/event/Berlin-West-Africa-Conference)
+- [General Act of Berlin PDF](https://web.archive.org/web/20260708201229/https://loveman.sdsu.edu/docs/1885GeneralActBerlinConference.pdf)
+- [World History Encyclopedia Entry](https://web.archive.org/web/20260714153947/https://www.worldhistory.org/Berlin_Conference_1884-5/)
+- [Al Jazeera Analysis](https://web.archive.org/web/20260714160534/https://web.archive.org/web/20260714160534/https://www.aljazeera.com/news/2025/2/26/colonising-africa-what-happened-at-the-berlin-conference-of-1884-1885-what-happened-at-the-berlin-conference-of-1884-1885)
+- [YouTube Documentary Trailer](https://web.archive.org/web/20260714155101/https://www.youtube.com/watch?v=FTjBNppdk-M)
 
 ---
 
@@ -119,7 +121,7 @@ The Berlin Conference convened 14 European powers plus the United States from No
 
 | Source | Type | URL |
 |--------|------|-----|
-| General Act of the Berlin Conference (1885) | Treaty text | [Wikisource](https://en.wikisource.org/wiki/General_Act_of_the_Berlin_Conference) |
+| General Act of the Berlin Conference (1885) | Treaty text | [SDSU Archive](https://web.archive.org/web/20260708201229/https://loveman.sdsu.edu/docs/1885GeneralActBerlinConference.pdf) |
 | Conference Proceedings (Nov 1884 – Feb 1885) | Official minutes | [German Federal Archives](https://www.bundesarchiv.de) - Research request |
 | Diplomatic Correspondence | Letters/Memos | [UK National Archives](https://www.nationalarchives.gov.uk) - Research request |
 
@@ -127,11 +129,11 @@ The Berlin Conference convened 14 European powers plus the United States from No
 
 | Source | Type | URL |
 |--------|------|-----|
-| "Berlin Conference 1884-5" | Encyclopedia Entry | [World History Encyclopedia](https://www.worldhistory.org/Berlin_Conference_1884-5/) |
-| "Scramble for Africa" | British Library Research | [BL.uk](https://www.bl.uk/world-conferences/colonial-empire-scramble-for-africa) |
+| "Berlin Conference 1884-5" | Encyclopedia Entry | [World History Encyclopedia](https://web.archive.org/web/20260714153947/https://www.worldhistory.org/Berlin_Conference_1884-5/) |
+| "Scramble for Africa" | Encyclopedia Entry | [Britannica](https://web.archive.org/web/20260714154735/https://www.britannica.com/event/Scramble-for-Africa) |
 | Hochschild, Adam (1998) | Book: King Leopold's Ghost | Published analysis, widely cited |
 | "Berlin 1885: Division of Africa" | Documentary | [Icarus Films](https://www.icarusfilms.com) |
-| Al Jazeera (2025) | Scholarly article | [aljazeera.com](https://www.aljazeera.com/news/2025/2/26/colonising-africa) |
+| Al Jazeera (2025) | Scholarly article | [aljazeera.com](https://web.archive.org/web/20260714160534/https://web.archive.org/web/20260714160534/https://www.aljazeera.com/news/2025/2/26/colonising-africa-what-happened-at-the-berlin-conference-of-1884-1885-what-happened-at-the-berlin-conference-of-1884-1885) |
 
 ### Academic References
 

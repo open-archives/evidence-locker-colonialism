@@ -134,10 +134,10 @@ China's massive chemical and pharmaceutical sector makes it a primary global sou
 | **Fentanyl production data** | China's role in global fentanyl precursor supply | UNODC / DEA / academic sources | ⏳ Pending |
 
 **Ready Links (for research):**
-- [Belt and Road Initiative — World Bank](https://www.worldbank.org/en/topic/regional-integration/brief/belt-and-road-initiative)
-- [China-Pakistan Economic Corridor — Center for Strategic & International Studies](https://www.csis.org/programs/china-pakistan-economic-corridor)
-- [Opium Wars — Britannica](https://www.britannica.com/event/Opium-Wars)
-- [Treaty of Nanjing full text](https://www.loc.gov/item/2021667601/)
+- [Belt and Road Initiative — World Bank](https://web.archive.org/web/20260326125442/https://documents1.worldbank.org/curated/en/126471554923176405/pdf/The-Belt-and-Road-Initiative-Economic-Poverty-and-Environmental-Impacts.pdf)
+- [China-Pakistan Economic Corridor — Center for Strategic & International Studies](https://web.archive.org/web/20260714161204/https://web.archive.org/web/20260714161204/https://www.csis.org/analysis/china-pakistan-economic-corridor-five)
+- [Opium Wars — Britannica](https://web.archive.org/web/20260714161338/https://www.britannica.com/topic/Opium-Wars)
+- [Treaty of Nanjing full text](https://web.archive.org/web/20260714162046/https://www.loc.gov/item/2021667601/)
 
 ---
 

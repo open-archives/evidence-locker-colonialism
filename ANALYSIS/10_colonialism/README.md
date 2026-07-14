@@ -1,5 +1,8 @@
 # 10_colonialism
 
+**Official Web Archive Mirror**: [tallow699 Archive Collection](https://archive.org/details/@tallow699/web-archive)  
+*(All external citations, treaty texts, and documentary evidence relied upon in these entries are permanently frozen and mirrored at the Internet Archive to prevent link rot and content drift).*
+
 Documents in this category:
 - [Global Colonialism Series — Introduction & Framework (2025-2026)](global-colonialism-framework-2026.md)
 - [Evidence Locker Entry 1: The Berlin Conference (1884-1885)](01-berlin-conference/README.md)
