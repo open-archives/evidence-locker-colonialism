@@ -36,7 +36,7 @@ ANALYSIS/10_colonialism/
 ├── 05-religious-missionaries/            # Conversion as colonial tool (coming)
 ├── 06-post-colonial-economics/           # IMF/World Bank, CFA franc (coming)
 ├── 07-neocolonial-infrastructure/        # China vs. U.S., Belt & Road (coming)
-├── 08-china-bri-*/                       # China, BRI, and Neocolonialism (8 Parts)
+├── 08-china-bri-neocolonialism/          # China, BRI, and Neocolonialism (8 Parts)
 ├── README.md                             # Series index
 └── global-colonialism-framework-2026.md  # Master framework
 ```
