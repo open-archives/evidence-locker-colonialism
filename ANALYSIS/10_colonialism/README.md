@@ -11,3 +11,4 @@ Documents in this category:
 - [Evidence Locker Entry 8 — Part 1: China & BRI Historical Parallel (2026)](08-china-bri-pt1-history.md)
 - [Evidence Locker Entry 8 — Part 2: What the BRI Is — Mechanics & Scale (2026)](08-china-bri-pt2-mechanics.md)
 - [Evidence Locker Entry 8 — Part 3: The "Debt-Trap" Debate (2026)](08-china-bri-pt3-debt.md)
+- [Evidence Locker Entry 8 — Part 4: Dual-Use Infrastructure (2026)](08-china-bri-pt4-dual-use.md)
