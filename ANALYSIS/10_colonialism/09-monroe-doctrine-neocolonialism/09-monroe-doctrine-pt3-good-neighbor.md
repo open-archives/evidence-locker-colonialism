@@ -4,16 +4,19 @@
 
 By the early 1930s, the United States was in a radically different position than it had been in 1904. The Great Depression had devastated the U.S. economy, and President Herbert Hoover's Republican administration had already begun to shift away from overt military interventions in Latin America. The Hoover administration had withdrawn troops from Nicaragua (1933) and had begun to repudiate the Roosevelt Corollary, recognizing that U.S. intervention had bred deep resentment and economic inefficiency.
 
+**Hoover's groundwork**: The Clark Memorandum (1930), written by Undersecretary of State J. Reuben Clark, implicitly rejected the Roosevelt Corollary by arguing that the Monroe Doctrine was a unilateral U.S. declaration against European intervention — not a license for U.S. intervention in Latin American affairs. This set the stage for the Good Neighbor Policy.
+
 **The election of Franklin D. Roosevelt (1932)** marked a turning point. Roosevelt, a Democrat with a more internationalist vision, saw the need to rebuild hemispheric relations as a foundation for broader recovery. His administration's "Good Neighbor Policy" was a rhetorical and practical departure from the interventionist past.
 
 **The key drivers**:
+
 | Driver | Description |
 |--------|-------------|
 | **Latin American resentment** | Decades of U.S. intervention had created widespread anti-Americanism; U.S. corporations (United Fruit, Standard Oil) were widely resented |
 | **Economic needs** | The U.S. needed Latin American markets for exports and secure access to raw materials; cooperation was more profitable than coercion |
 | **Geopolitical shifts** | The rise of Germany, Italy, and Japan in the 1930s made hemispheric unity a security imperative; the U.S. needed willing allies |
-| **Domestic politics** | The Roosevelt administration was committed to multilateralism and "hemispheric solidarity"; it saw interventionism as counterproductive |
-| **Anti-imperialist criticism** | Domestic critics (e.g., Mark Twain, progressive Democrats, some Republicans) had long condemned U.S. interventions as abandoning republican principles |
+| **Domestic politics** | The Roosevelt administration was committed to multilateralism and "hemispheric solidarity"; it saw interventionism as counterproductive; **FDR also used the policy to appeal to isolationists and progressives who opposed foreign entanglements** |
+| **Anti-imperialist criticism** | Domestic critics had long condemned U.S. interventions as abandoning republican principles. **While Mark Twain was an earlier critic (Spanish-American War era), 1930s critics included progressive senators like William Borah (Idaho) who opposed interventionism** |
 
 ---
 
@@ -55,17 +58,20 @@ While the Good Neighbor Policy represented a rhetorical shift from gunboat diplo
 | **Economic dominance** | U.S. corporations dominated key industries (bananas, mining, oil) | United Fruit in Central America; Standard Oil in Venezuela |
 | **Trade dependency** | Reciprocity agreements favored U.S. exports; Latin American economies remained commodity-dependent | Grain, beef, coffee, sugar exports to U.S. markets |
 | **Financial control** | U.S. banks and financial institutions managed Latin American debt and currency | U.S. bondholders held significant Latin American sovereign debt |
-| **Political influence** | The U.S. supported friendly regimes through diplomatic recognition and loans; covert influence continued | The CIA was created in 1947 and would later use these channels |
+| **Political influence** | The U.S. supported friendly regimes through diplomatic recognition and loans; covert influence continued | **The CIA was not yet created (1947), but influence operated through the State Department, military attachés, and wartime intelligence (OSS)** |
 | **Military basing** | The U.S. maintained military bases and leased facilities (e.g., Panama Canal Zone, Guantánamo Bay) | Sovereign territory under permanent U.S. control |
 | **Cultural influence** | U.S. media, education, and cultural exports shaped Latin American society | Hollywood, radio, and later television |
+| **Diplomatic pressure** | **The U.S. still intervened diplomatically and economically; e.g., pressure on Argentina to abandon neutrality during WWII** | **Non-intervention was rhetorical; economic and diplomatic pressure continued** |
 
 **The reality**: The Good Neighbor Policy did not end U.S. hegemony — it professionalized it. The U.S. shifted from overt military occupations to a more sophisticated system of economic and political control. The rhetoric was genuine in its intent to reduce overt violence, but the structural inequality remained.
+
+**The shift toward multilateralism**: The policy also laid the groundwork for the **Organization of American States (OAS)** in 1948 — a multilateral forum that formalized hemispheric cooperation. This was a genuine shift from unilateral U.S. action to institutionalized regional governance, though the U.S. remained the dominant power within the OAS.
 
 ---
 
 ## 3.4 The Colonial Parallel — From Gunboat to Corporate Control
 
-The Good Neighbor Policy represents the transition from **formal imperial control** (direct military occupations, customs receiverships) to **informal imperial control** (corporate dominance, financial leverage, cultural influence). This mirrors the transition in the broader colonial world:
+The Good Neighbor Policy represents the transition from **formal imperial control** (direct military occupations, customs receiverships) to **informal imperial control** (corporate dominance, financial leverage, cultural influence). **This transition was already emerging under the Roosevelt Corollary (through debt and economic tools), but the Good Neighbor accelerated and refined it.**
 
 | Colonial Era (19th C) | Good Neighbor Era (1930s–1940s) |
 |-----------------------|--------------------------------|
@@ -83,7 +89,7 @@ The Good Neighbor Policy represents the transition from **formal imperial contro
 
 ### Diplomatic/Realist Perspective
 - The Good Neighbor Policy was a strategic necessity. With the rise of Nazi Germany and Imperial Japan, hemispheric unity was essential. The U.S. could not afford to have hostile Latin American neighbors.
-- The policy succeeded in its primary goal: Latin American nations largely aligned with the U.S. during World War II, providing bases, resources, and diplomatic support.
+- **The policy succeeded in its primary geopolitical goal: Latin American nations largely aligned with the U.S. during World War II, providing bases, resources, and diplomatic support. Brazil sent troops to Europe; Mexico provided raw materials; many countries denied Axis access.**
 - The U.S. also cooperated with Latin American nations on economic development through the Export-Import Bank and other institutions — not purely exploitation.
 
 ### Economic/Development Perspective
@@ -93,6 +99,11 @@ The Good Neighbor Policy represents the transition from **formal imperial contro
 ### Latin American Perspective — Mixed Reception
 - **Positive**: Some Latin American leaders welcomed the policy as a genuine improvement over gunboat diplomacy. It allowed for diplomatic dignity and some degree of independent policy.
 - **Negative**: Others saw it as a more insidious form of control — economic dependency, corporate dominance, and cultural hegemony. The "good neighbor" was still the dominant neighbor.
+- **Latin American agency**: **Leaders like Lázaro Cárdenas (Mexico, oil nationalization in 1938) tested the policy's limits and largely succeeded without U.S. military backlash — a real departure from earlier eras. This demonstrated that the policy genuinely constrained U.S. military intervention, though economic and diplomatic pressure continued.**
+
+### Domestic U.S. Politics
+- FDR used the Good Neighbor Policy to appeal to isolationists and progressives who opposed foreign entanglements, while also building alliances for broader New Deal diplomacy.
+- It was popular domestically as a rejection of "Wilsonian" overreach or the Harding/Coolidge interventionism of the 1920s.
 
 ---
 
@@ -100,14 +111,16 @@ The Good Neighbor Policy represents the transition from **formal imperial contro
 
 | Claim | Supported by Data? | Source Evidence | Qualifiers |
 |-------|-------------------|-----------------|------------|
-| The Good Neighbor Policy formally repudiated the Roosevelt Corollary | ✅ Yes | Roosevelt's speeches and diplomatic statements (1933–1936) | The repudiation was rhetorical; U.S. reserve rights to intervene in certain situations |
+| The Good Neighbor Policy formally repudiated the Roosevelt Corollary | ✅ Yes | Roosevelt's speeches and diplomatic statements (1933–1936) | The repudiation was rhetorical; **for about 10–15 years (until the Cold War), it was a genuine policy shift, but it eroded after 1945** |
 | The Platt Amendment was repealed in 1934 | ✅ Yes | Official U.S. record; Cuban government | Economic ties and Guantánamo base remained |
 | U.S. Marines were withdrawn from Haiti in 1934 | ✅ Yes | Official military records | U.S. retained some financial and diplomatic influence |
 | U.S. corporations continued to dominate Latin American economies | ✅ Yes | Economic data; corporate records (United Fruit, Standard Oil) | Dominance varied by country and sector |
-| The Good Neighbor Policy was a strategic response to Nazi Germany | ✅ Yes | Historical records; Roosevelt's reasoning | Geopolitical concerns were significant but not the only factor |
+| **The Good Neighbor Policy was a strategic response to Nazi Germany and Japan** | ✅ Yes | **Historical records; Roosevelt's reasoning** | **Geopolitical concerns were significant but not the only factor** |
 | The policy was welcomed by some Latin American leaders but resented by others | ✅ Yes | Historical records; diplomatic correspondence | Reception varied by country and political faction |
-| The policy did not dismantle U.S. hegemony | ✅ Yes | Structural economic and political evidence | Hegemony shifted from military to economic forms |
-| The policy was criticized by U.S. anti-imperialists | ✅ Yes | Historical records (e.g., Mark Twain, progressive Democrats) | Criticism was present but not dominant in U.S. politics |
+| **The policy did not dismantle U.S. hegemony** | ✅ Yes | **Structural economic and political evidence** | **Hegemony shifted from military to economic forms, and later to CIA covert operations** |
+| **The policy helped secure hemispheric alignment during WWII** | ✅ Yes | **Historical records; military and economic cooperation** | **This was a major success of the policy** |
+| **The policy was tested by Latin American leaders like Cárdenas (Mexico oil nationalization)** | ✅ Yes | **Historical records; Cárdenas nationalized oil in 1938; U.S. did not militarily intervene** | **The U.S. applied economic/diplomatic pressure but did not use force — a departure from earlier eras** |
+| **The policy contributed to the formation of the OAS (1948)** | ✅ Yes | **Historical records; multilateral diplomacy** | **The OAS formalized cooperation but the U.S. remained dominant** |
 
 ---
 
@@ -119,7 +132,7 @@ The Good Neighbor Policy represents the transition from **formal imperial contro
 | What was the economic impact of U.S. corporate dominance in specific countries? | Case studies (Guatemala, Honduras) | Limited systematic data |
 | How did Latin American political elites view the policy internally? | Some records | Limited internal political history |
 | Did the policy improve or worsen inequality in Latin America? | Mixed evidence | No consensus |
-| How did the policy shape the development of the CIA and covert operations? | Direct link to later covert interventions | The CIA was created after the Good Neighbor period (1947) |
+| How did the policy shape the development of later CIA covert operations? | Direct link to later covert interventions | The CIA was created after the Good Neighbor period (1947) |
 
 ---
 
@@ -132,6 +145,7 @@ The Good Neighbor Policy represents the transition from **formal imperial contro
 | **United Fruit Company operations map** | Banana plantations across Central America | Corporate archives / academic sources | ⏳ Pending |
 | **Trade flow chart (U.S.-Latin America)** | Exports and imports under reciprocity agreements | U.S. Department of Commerce | ⏳ Pending |
 | **Latin American leaders of the era** | Key figures: Vargas (Brazil), Cárdenas (Mexico), Batista (Cuba) | Historical archives | ⏳ Pending |
+| **OAS formation timeline** | 1948 — multilateral cooperation | Historical records | ⏳ Pending |
 
 ---
 
@@ -155,8 +169,8 @@ The Good Neighbor Policy represents the transition from **formal imperial contro
 | **Title** | The Good Neighbor Policy (1933) — Rhetoric vs. Reality |
 | **Series** | Monroe Doctrine Series (`EL-MONROE-SERIES-2026`) |
 | **Compiled Date** | 14 Jul 2026 |
-| **Version** | 1.1 |
-| **Status** | PUBLISHED |
+| **Version** | **1.1 (Revised)** |
+| **Status** | **Publish Ready** |
 | **Related Entry IDs** | `EL-MONROE-01`, `EL-MONROE-02`, `EL-MONROE-04`, `EL-COL-06` |
 | **Licensing** | CC-BY-NC |
 
