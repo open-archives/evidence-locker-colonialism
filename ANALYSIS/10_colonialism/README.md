@@ -14,3 +14,4 @@ Documents in this category:
 - [Evidence Locker Entry 8 — Part 4: Dual-Use Infrastructure (2026)](08-china-bri-pt4-dual-use.md)
 - [Evidence Locker Entry 8 — Part 5: Resource Extraction (2026)](08-china-bri-pt5-resource.md)
 - [Evidence Locker Entry 8 — Part 6: The Digital Silk Road (2026)](08-china-bri-pt6-digital.md)
+- [Evidence Locker Entry 8 — Part 7: Turning the Tables (2026)](08-china-bri-pt7-fentanyl.md)

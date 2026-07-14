@@ -202,4 +202,4 @@ China has aggressively exported AI surveillance technologies to BRI countries. C
 
 ---
 
-**Navigation**: [← Return to Colonialism Series Index](../README.md) | [← Previous: Part 5 — Resource Extraction](08-china-bri-pt5-resource.md) | [Next: Part 7 — Concluding Synthesis →](08-china-bri-pt7-synthesis.md)
+**Navigation**: [← Return to Colonialism Series Index](../README.md) | [← Previous: Part 5 — Resource Extraction](08-china-bri-pt5-resource.md) | [Next: Part 7 — Turning the Tables →](08-china-bri-pt7-fentanyl.md)
