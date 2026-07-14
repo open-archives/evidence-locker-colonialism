@@ -13,3 +13,4 @@ Documents in this category:
 - [Evidence Locker Entry 8 — Part 3: The "Debt-Trap" Debate (2026)](08-china-bri-pt3-debt.md)
 - [Evidence Locker Entry 8 — Part 4: Dual-Use Infrastructure (2026)](08-china-bri-pt4-dual-use.md)
 - [Evidence Locker Entry 8 — Part 5: Resource Extraction (2026)](08-china-bri-pt5-resource.md)
+- [Evidence Locker Entry 8 — Part 6: The Digital Silk Road (2026)](08-china-bri-pt6-digital.md)

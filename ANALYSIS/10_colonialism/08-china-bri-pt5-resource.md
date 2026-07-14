@@ -246,4 +246,4 @@ The 19th-century colonial extraction model was built on **concession companies**
 
 ---
 
-**Navigation**: [← Return to Colonialism Series Index](../README.md) | [← Previous: Part 4 — Dual-Use Infrastructure](08-china-bri-pt4-dual-use.md) | Next: Part 6 — The Digital Silk Road →
+**Navigation**: [← Return to Colonialism Series Index](../README.md) | [← Previous: Part 4 — Dual-Use Infrastructure](08-china-bri-pt4-dual-use.md) | [Next: Part 6 — The Digital Silk Road →](08-china-bri-pt6-digital.md)
