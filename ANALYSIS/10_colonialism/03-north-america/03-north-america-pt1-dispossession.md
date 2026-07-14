@@ -256,7 +256,7 @@ You didn't leave God. You left a *God that looked like the colonizer*. That's no
 
 ---
 
-**Navigation**: [← Return to Colonialism Series Index](../README.md) | [Next: Entry 3 — Part 2: The Removal Era →](../03-north-america-removal-pt2/README.md)
+**Navigation**: [← Return to Colonialism Series Index](../README.md) | [Next: Entry 3 — Part 2: The Removal Era →](03-north-america-pt2-removal.md)
 
 ---
 

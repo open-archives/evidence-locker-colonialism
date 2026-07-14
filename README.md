@@ -28,10 +28,7 @@ This is not abstract history. It is **family history** — Irish, Native America
 ANALYSIS/10_colonialism/
 ├── 01-berlin-conference/          # Berlin 1884-85 — Scramble for Africa
 ├── 02-indochina-vietnam/                 # French colonialism + U.S. proxy war
-├── 03-north-america-dispossession-pt1/   # Early Contact, Doctrine of Discovery
-├── 03-north-america-removal-pt2/         # Removal Era, Trail of Tears
-├── 03-north-america-residential-pt3/     # Residential Schools
-├── 03-north-america-modern-pt4/          # Modern Legacies (coming)
+├── 03-north-america/                     # Dispossession, Removal, Residential, Modern (4 Parts)
 ├── 04-south-america/                     # Encomienda, Potosí, Dependency (coming)
 ├── 05-religious-missionaries/            # Conversion as colonial tool (coming)
 ├── 06-post-colonial-economics/           # IMF/World Bank, CFA franc (coming)
@@ -50,10 +47,7 @@ ANALYSIS/10_colonialism/
 |-------|-------|--------|
 | **01** | Berlin Conference (1884-85) | ✅ Published |
 | **02** | Indochina / Vietnam War | ✅ Published |
-| **03-Pt1** | North America — Early Contact | ✅ Published |
-| **03-Pt2** | North America — Removal Era | ✅ Published |
-| **03-Pt3** | North America — Residential Schools | ✅ Published |
-| **03-Pt4** | North America — Modern Legacies | ✅ Published |
+| **03** | North America (4 Parts) | ✅ Published |
 | **04** | South America — Encomienda / Potosí | ⏳ Planned |
 | **05** | Religious Missionaries | ⏳ Planned |
 | **06** | Post-Colonial Economics (IMF/World Bank) | ⏳ Planned |

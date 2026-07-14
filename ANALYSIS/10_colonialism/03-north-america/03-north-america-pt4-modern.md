@@ -107,4 +107,4 @@ The colonial project in North America didn't end with the closure of residential
 
 ---
 
-**Navigation**: [← Return to Entry 3 — Part 3: Residential Schools](../03-north-america-residential-pt3/README.md) | [Next: Entry 4 — South America →]
+**Navigation**: [← Return to Entry 3 — Part 3: Residential Schools](03-north-america-pt3-residential.md) | [Next: Entry 4 — South America →]
