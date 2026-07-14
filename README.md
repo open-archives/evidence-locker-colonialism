@@ -37,6 +37,7 @@ ANALYSIS/10_colonialism/
 ├── 06-post-colonial-economics/           # IMF/World Bank, CFA franc (coming)
 ├── 07-neocolonial-infrastructure/        # China vs. U.S., Belt & Road (coming)
 ├── 08-china-bri-neocolonialism/          # China, BRI, and Neocolonialism (8 Parts)
+├── 09-monroe-doctrine-neocolonialism/    # Monroe Doctrine & U.S. Hegemony
 ├── README.md                             # Series index
 └── global-colonialism-framework-2026.md  # Master framework
 ```
@@ -58,6 +59,7 @@ ANALYSIS/10_colonialism/
 | **06** | Post-Colonial Economics (IMF/World Bank) | ⏳ Planned |
 | **07** | Neocolonial Infrastructure | ⏳ Planned |
 | **08** | China, the BRI, & Neocolonialism (8 Parts) | ✅ Published |
+| **09** | Monroe Doctrine & U.S. Hegemony | ⏳ Outlined |
 
 ---
 

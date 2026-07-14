@@ -16,3 +16,4 @@ Documents in this category:
 - [Evidence Locker Entry 8 — Part 6: The Digital Silk Road (2026)](08-china-bri-neocolonialism/08-china-bri-pt6-digital.md)
 - [Evidence Locker Entry 8 — Part 7: Turning the Tables (2026)](08-china-bri-neocolonialism/08-china-bri-pt7-fentanyl.md)
 - [Evidence Locker Entry 8 — Part 8: Concluding Synthesis (2026)](08-china-bri-neocolonialism/08-china-bri-pt8-synthesis.md)
+- [Evidence Locker Entry 9: Monroe Doctrine & U.S. Hegemony](09-monroe-doctrine-neocolonialism/README.md)
