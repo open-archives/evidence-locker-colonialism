@@ -4,7 +4,7 @@
 **Series**: Colonialism Series (`EL-COLONIALISM-SERIES-2026`)  
 **Compiled Date:** 13 Jul 2026  
 **Version**: 1.0 (Draft)  
-**Status**: Draft — Visual Assets Pending
+**Status**: Draft
 
 ---
 
@@ -62,24 +62,11 @@ The colonial project in North America didn't end with the closure of residential
 
 ---
 
-## Part 4: Visual Asset Placeholders
 
-| Asset Type | Description | Known Source | Status |
-|------------|-------------|--------------|--------|
-| **Photo: AIM occupation of Alcatraz (1969)** | Indigenous protest | National Archives / AP | ⏳ Pending |
-| **Photo: Wounded Knee occupation (1973)** | AIM members | AP / Getty | ⏳ Pending |
-| **Map: U.S. reservations / tribal lands** | Current boundaries | BIA / Native Land Digital | ⏳ Pending |
-| **Map: Canadian reserves / First Nations** | Current boundaries | Indigenous Affairs Canada | ⏳ Pending |
-| **Graph: Extractive industries on reservations** | Revenue vs. poverty rates | Indigenous Environmental Network | ⏳ Pending |
-| **Report: TRC Calls to Action — progress (2026)** | Implementation status | TRC / Canadian government | ⏳ Pending |
-| **Document: U.S. apology resolution (proposed)** | Not passed | U.S. Congress | ⏳ Pending |
-
-**Ready Links:**
-- [TRC Calls to Action progress (2026)](https://web.archive.org/web/20260714163438/https://www.rcaanc-cirnac.gc.ca/eng/1524494530110/1557511412801) — pending update
 
 ---
 
-## Part 5: Cross‑References to Evidence Locker
+## Part 4: Cross‑References to Evidence Locker
 
 | Related Entry | Connection |
 |---------------|------------|
@@ -91,13 +78,13 @@ The colonial project in North America didn't end with the closure of residential
 
 ---
 
-## Part 6: Archive Metadata
+## Part 5: Archive Metadata
 
 | Field | Value |
 |-------|-------|
 | **Archive ID** | `EL-COL-03-PT4` |
 | **Version** | 1.0 |
-| **Status** | Draft — Visual Assets Pending |
+| **Status** | Draft |
 | **Next** | South America (Entry 4) |
 | **Related Entries** | `EL-COL-03-PT1`, `EL-COL-03-PT2`, `EL-COL-03-PT3`, `EL-COL-06` |
 | **Licensing** | CC-BY-NC |

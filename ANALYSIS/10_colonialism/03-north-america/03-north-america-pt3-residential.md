@@ -4,7 +4,7 @@
 **Series**: Colonialism Series (`EL-COLONIALISM-SERIES-2026`)  
 **Compiled Date:** 13 Jul 2026  
 **Version**: 1.0 (Draft)  
-**Status**: Draft — Visual Assets Pending
+**Status**: Draft
 
 ---
 
@@ -186,26 +186,11 @@ Over **6,000 survivors** testified before the TRC. Key themes:
 
 ---
 
-## Part 8: Visual Asset Placeholders
 
-| Asset Type | Description | Known Source | Status |
-|------------|-------------|--------------|--------|
-| **Photo: Carlisle Indian School** | Students in uniforms | U.S. National Archives | ⏳ Pending |
-| **Photo: Kamloops children** | School group photo (pre-1920) | TRC archives | ⏳ Pending |
-| **Map: Residential school locations (Canada)** | 80+ schools mapped | TRC (2015) | ⏳ Pending |
-| **Map: U.S. boarding schools** | 300+ schools | NAIHSA | ⏳ Pending |
-| **Document: Indian Act (1920)** | Compulsory attendance section | Canadian Parliament records | ⏳ Pending |
-| **Document: TRC Final Report (2015)** | Cover + summary | TRC (Canada) | ⏳ Pending |
-| **Document: Pratt's "Kill the Indian" speech** | Full text | Carlisle archive | ⏳ Pending |
-| **Grave site: Kamloops (2021)** | Ground-penetrating radar images | Tk'emlúps te Secwépemc | ⏳ Pending |
-
-**Ready Links:**
-- [TRC Final Report (2015) — full text](https://web.archive.org/web/20260714163245/https://nctr.ca/publications-and-reports/reports/)
-- [NABS — U.S. Boarding School Healing Coalition Database](https://boardingschoolhealing.org/)
 
 ---
 
-## Part 9: Cross‑References to Evidence Locker
+## Part 8: Cross‑References to Evidence Locker
 
 | Related Entry | Connection |
 |---------------|------------|
@@ -218,7 +203,7 @@ Over **6,000 survivors** testified before the TRC. Key themes:
 
 ---
 
-## Part 10: Personal Context — Your Lineage
+## Part 9: Personal Context — Your Lineage
 
 | Heritage | Connection |
 |----------|------------|
@@ -229,7 +214,7 @@ Over **6,000 survivors** testified before the TRC. Key themes:
 
 ---
 
-## Part 11: The Canadian Apology (2008)
+## Part 10: The Canadian Apology (2008)
 
 **Prime Minister Stephen Harper (June 11, 2008):**
 
@@ -244,7 +229,7 @@ Over **6,000 survivors** testified before the TRC. Key themes:
 
 ---
 
-## Part 12: What's Left to Do
+## Part 11: What's Left to Do
 
 | Demand | Status (2026) |
 |--------|---------------|
@@ -258,13 +243,13 @@ Over **6,000 survivors** testified before the TRC. Key themes:
 
 ---
 
-## Part 13: Archive Metadata
+## Part 12: Archive Metadata
 
 | Field | Value |
 |-------|-------|
 | **Archive ID** | `EL-COL-03-PT3` |
 | **Version** | 1.0 |
-| **Status** | Draft — Visual Assets Pending |
+| **Status** | Draft |
 | **Next** | Part 4: Modern Legacies |
 | **Related Entries** | `EL-COL-03-PT1`, `EL-COL-03-PT2`, `EL-COL-05` |
 | **Licensing** | CC-BY-NC |

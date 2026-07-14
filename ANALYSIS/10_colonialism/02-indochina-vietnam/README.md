@@ -4,7 +4,7 @@
 **Series**: Colonialism Series (`EL-COLONIALISM-SERIES-2026`)  
 **Compiled Date:** 13 Jul 2026  
 **Version:** 2.0 (Updated — U.S. Paymaster & Irony Sections Added)  
-**Status**: Draft — Visual Assets Pending  
+**Status**: Draft  
 
 ---
 
@@ -70,25 +70,11 @@ French colonial rule in Indochina (Vietnam, Laos, Cambodia) began in 1858 and in
 
 ---
 
-## Part 4: Visual Asset Placeholders
 
-| Asset Type | Description | Source | Status |
-|------------|-------------|--------|--------|
-| **Map of French Indochina** | 1887–1954 colonial boundaries | Wikimedia Commons | ⏳ Pending |
-| **Dien Bien Phu photo** | French surrender, 1954 | Associated Press archive | ⏳ Pending |
-| **Agent Orange spray map** | Operation Ranch Hand target areas | U.S. National Archives | ⏳ Pending |
-| **Geneva Accords document** | 1954 agreement text | UN/ICRC archives | ⏳ Pending |
-| **Fall of Saigon photo** | Evacuation helicopter, 1975 | Getty Images | ⏳ Pending |
-| **Boat people map** | Refugee routes and camps | UNHCR | ⏳ Pending |
-| **Modern Vietnamese economy chart** | GDP growth vs. colonial-era extraction | World Bank data | ⏳ Pending |
-| **U.S. foreign aid to France (1950–54) chart** | Annual breakdown of CIA/State Dept funding | Declassified budget records | ⏳ Pending |
-
-**Ready Links:**
-- [Geneva Accords full text (1954)](https://web.archive.org/web/20260308184557/https://avalon.law.yale.edu/20th_century/inch004.asp)
 
 ---
 
-## Part 5: Cross‑References to Evidence Locker
+## Part 4: Cross‑References to Evidence Locker
 
 | Related Entry | Connection |
 |---------------|------------|
@@ -101,7 +87,7 @@ French colonial rule in Indochina (Vietnam, Laos, Cambodia) began in 1858 and in
 
 ---
 
-## Part 6: Open Questions & Data Gaps
+## Part 5: Open Questions & Data Gaps
 
 | Question | Data Available | Gap |
 |----------|----------------|-----|
@@ -115,7 +101,7 @@ French colonial rule in Indochina (Vietnam, Laos, Cambodia) began in 1858 and in
 
 ---
 
-## Part 7: Sources Catalog
+## Part 6: Sources Catalog
 
 ### Primary Sources
 
@@ -149,20 +135,20 @@ French colonial rule in Indochina (Vietnam, Laos, Cambodia) began in 1858 and in
 
 ---
 
-## Part 8: Archive Metadata
+## Part 7: Archive Metadata
 
 | Field | Value |
 |-------|-------|
 | **Archive ID** | `EL-COL-02` |
 | **Version** | 2.0 (Updated — Paymaster & Irony Sections) |
-| **Status** | In Progress — Visual Assets Pending |
+| **Status** | In Progress |
 | **Related Entry IDs** | `EL-COL-01`, `EL-COL-05`, `EL-COL-06`, `EL-COL-07`, `EL-PALANTIR-THIEL` |
 | **Licensing** | CC‑BY‑NC for archival sharing |
 | **Backup Location** | Local encrypted NVMe; Wayback mirror scheduled |
 
 ---
 
-## Part 9: The U.S. as Colonial Paymaster (1946–1954)
+## Part 8: The U.S. as Colonial Paymaster (1946–1954)
 
 ### The Financial Reality
 
@@ -213,7 +199,7 @@ When France finally pulled out, the U.S. immediately stepped in — not to end c
 
 ---
 
-## Part 10: Zero-Sum Irony — What Did the Colonizers Actually Win?
+## Part 9: Zero-Sum Irony — What Did the Colonizers Actually Win?
 
 Let's run the final balance sheet for both colonial powers.
 

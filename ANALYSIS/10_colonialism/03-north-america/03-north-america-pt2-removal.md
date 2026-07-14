@@ -4,7 +4,7 @@
 **Series**: Colonialism Series (`EL-COLONIALISM-SERIES-2026`)  
 **Compiled Date:** 13 Jul 2026  
 **Version:** 1.0 (Draft)  
-**Status**: Draft — Visual Assets Pending
+**Status**: Draft
 
 ---
 
@@ -71,33 +71,11 @@ The most infamous episode — the **Cherokee Trail of Tears (1838–1839)** — 
 
 ---
 
-## Part 4: Visual Asset Placeholders
 
-| Asset Type | Description | Known Source | Status |
-|------------|-------------|--------------|--------|
-| **Map: Indian Removal routes** | Trail of Tears, Choctaw, Creek, Seminole routes | NPS Trail of Tears map | ⏳ Pending — **confirmed exists** |
-| **Map: Pre‑removal tribal territories** | Southeast U.S. before 1830 | Library of Congress | ⏳ Pending — **confirmed exists** |
-| **Map: Post‑removal Indian Territory** | Oklahoma/Kansas reservations | National Archives | ⏳ Pending — **confirmed exists** |
-| **Portrait: Andrew Jackson** | President who signed Removal Act | White House Historical Association | ⏳ Pending — **confirmed exists** |
-| **Portrait: John Ross** | Cherokee Chief who resisted removal | Smithsonian | ⏳ Pending — **confirmed exists** |
-| **Portrait: Chief Joseph** | Nez Perce leader ("I will fight no more forever") | Library of Congress | ⏳ Pending — **confirmed exists** |
-| **Document: Indian Removal Act (1830)** | Full text / scan | National Archives | ⏳ Pending — **confirmed exists** |
-| **Document: Treaty of New Echota (1835)** | Scan of fraudulent treaty | National Archives | ⏳ Pending — **confirmed exists** |
-| **Document: *Worcester v. Georgia* (1832)** | Supreme Court decision | Cornell LII | 🔗 Ready |
-| **Photo: Cherokee prisoners (1838)** | Stockade at Fort Cass | NPS / historical archives | ⏳ Pending — **confirmed exists** |
-| **Illustration: Trail of Tears march** | Contemporary engraving | Library of Congress | ⏳ Pending — **confirmed exists** |
-| **Photo: Potawatomi Trail of Death memorial** | Marker in Kansas | Potawatomi Heritage | ⏳ Pending — **confirmed exists** |
-| **Graph: Land loss 1887–1934** | ~86 million acres lost | Stanford / NPS | ⏳ Pending — **research needed** |
-
-**Ready Links:**
-- [Wikimedia — Trail of Tears Map (Archived)](https://web.archive.org/web/20260714172352/https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Trails_of_Tears_en.png/1920px-Trails_of_Tears_en.png)
-- [National Archives — Indian Removal Act](https://web.archive.org/web/20260714162856/https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal)
-- [Cornell LII — *Worcester v. Georgia*](https://web.archive.org/web/20260714162648/https://www.law.cornell.edu/supremecourt/text/31/515)
-- [Potawatomi Trail of Death website](https://web.archive.org/web/20260714163303/https://www.potawatomi.org/blog/2022/09/16/trail-of-death-caravan-readies-for-next-observance/)
 
 ---
 
-## Part 5: Cross‑References to Evidence Locker
+## Part 4: Cross‑References to Evidence Locker
 
 | Related Entry | Connection |
 |---------------|------------|
@@ -108,7 +86,7 @@ The most infamous episode — the **Cherokee Trail of Tears (1838–1839)** — 
 
 ---
 
-## Part 6: Open Questions & Data Gaps
+## Part 5: Open Questions & Data Gaps
 
 | Question | Data Available | Gap |
 |----------|----------------|-----|
@@ -120,7 +98,7 @@ The most infamous episode — the **Cherokee Trail of Tears (1838–1839)** — 
 
 ---
 
-## Part 7: Sources Catalog
+## Part 6: Sources Catalog
 
 ### Primary Sources
 
@@ -154,7 +132,7 @@ The most infamous episode — the **Cherokee Trail of Tears (1838–1839)** — 
 
 ---
 
-## Part 8: Personal Context Reflection (Your Lineage)
+## Part 7: Personal Context Reflection (Your Lineage)
 
 | Heritage | Connection to This Entry |
 |----------|---------------------------|
@@ -165,7 +143,7 @@ The most infamous episode — the **Cherokee Trail of Tears (1838–1839)** — 
 
 ---
 
-## Part 9: The Ideology of Removal — "Benevolent" Genocide
+## Part 8: The Ideology of Removal — "Benevolent" Genocide
 
 Andrew Jackson and his supporters framed removal as a **humanitarian** policy. In his 1830 annual message, Jackson argued:
 
@@ -186,7 +164,7 @@ Andrew Jackson and his supporters framed removal as a **humanitarian** policy. I
 
 ---
 
-## Part 10: The Fraud of New Echota — A Case Study in Bad Faith
+## Part 9: The Fraud of New Echota — A Case Study in Bad Faith
 
 The **Treaty of New Echota (1835)** is the perfect example of how the U.S. used legal formalism to legitimize theft:
 
@@ -202,7 +180,7 @@ The **Treaty of New Echota (1835)** is the perfect example of how the U.S. used 
 
 ---
 
-## Part 11: The Potawatomi Trail of Death — A Smaller But No Less Brutal Episode
+## Part 10: The Potawatomi Trail of Death — A Smaller But No Less Brutal Episode
 
 While the Cherokee Trail of Tears is the most famous, the **Potawatomi Trail of Death (1838)** illustrates the same pattern on a smaller scale:
 
@@ -221,7 +199,7 @@ While the Cherokee Trail of Tears is the most famous, the **Potawatomi Trail of 
 
 ---
 
-## Part 12: The Dawes Act (1887) — The Final Land Grab
+## Part 11: The Dawes Act (1887) — The Final Land Grab
 
 After removal, the U.S. government shifted strategy: instead of moving people, it would **destroy the collective land base** that made tribal sovereignty possible.
 
@@ -242,13 +220,13 @@ After removal, the U.S. government shifted strategy: instead of moving people, i
 
 ---
 
-## Part 13: Archive Metadata
+## Part 12: Archive Metadata
 
 | Field | Value |
 |-------|-------|
 | **Archive ID** | `EL-COL-03-PT2` |
 | **Version** | 1.0 (Draft) |
-| **Status** | Draft — Visual Assets Pending |
+| **Status** | Draft |
 | **Next Parts** | Pt3: Residential Schools \| Pt4: Modern Legacies |
 | **Related Entry IDs** | `EL-COL-03-PT1`, `EL-COL-01`, `EL-COL-06` |
 | **Licensing** | CC‑BY‑NC |

@@ -4,7 +4,7 @@
 **Series**: Colonialism Series (`EL-COLONIALISM-SERIES-2026`)  
 **Compiled Date:** 13 Jul 2026  
 **Version:** 2.0 (Final Draft — Theological Betrayal Section Added)  
-**Status**: PUBLISH READY — Visual Assets Pending (sources confirmed)
+**Status**: PUBLISH READY
 
 ---
 
@@ -64,28 +64,11 @@ The colonization of North America began with competing European claims (Spain, F
 
 ---
 
-## Part 4: Visual Asset Placeholders (With Known Sources)
 
-| Asset Type | Description | Known Source URL / Location | Status |
-|------------|-------------|-----------------------------|--------|
-| **Map: Indigenous territories pre‑1492** | Overlay of language groups / nations | Native Land Digital (native-land.ca) | ⏳ Pending — **confirmed exists** |
-| **Map: Royal Proclamation Line (1763)** | Boundary along Appalachian crest | Library of Congress (loc.gov) | ⏳ Pending — **confirmed exists** |
-| **Map: Louisiana Purchase (1803)** | Doubling of U.S. territory | National Archives (archives.gov) | ⏳ Pending — **confirmed exists** |
-| **Portrait: John Marshall** | Chief Justice who ruled *Johnson v. McIntosh* | U.S. Supreme Court Historical Society | ⏳ Pending — **confirmed exists** |
-| **Treaty document scan** | Example: Treaty of Fort Laramie (1851) | National Archives Catalog | ⏳ Pending — **confirmed exists** |
-| **Illustration: Columbus claiming land (1492)** | Engraving / painting | Wikimedia Commons / Getty | ⏳ Pending — **confirmed exists** |
-| **Map: Native land cessions by decade** | Animation or static chart | Smithsonian / Library of Congress | ⏳ Pending — **research needed** |
-| **Supreme Court ruling text (1823)** | *Johnson v. McIntosh* full text | Legal Information Institute (cornell.edu) | 🔗 Ready — freely available |
-
-**Ready Links (for immediate retrieval):**
-- [Native Land Digital — interactive map](https://native-land.ca)
-- [Library of Congress — Royal Proclamation Map (1763)](https://web.archive.org/web/20260714162653/https://www.loc.gov/item/74694799/)
-- [National Archives — American Indian Treaties Portal](https://www.archives.gov/research/native-americans/treaties)
-- [Justia Supreme Court — *Johnson v. M'Intosh* text](https://supreme.justia.com/cases/federal/us/21/543/)
 
 ---
 
-## Part 5: Cross‑References to Evidence Locker
+## Part 4: Cross‑References to Evidence Locker
 
 | Related Entry | Connection |
 |---------------|------------|
@@ -97,7 +80,7 @@ The colonization of North America began with competing European claims (Spain, F
 
 ---
 
-## Part 6: Open Questions & Data Gaps (Early Phase)
+## Part 5: Open Questions & Data Gaps (Early Phase)
 
 | Question | Data Available | Gap |
 |----------|----------------|-----|
@@ -109,7 +92,7 @@ The colonization of North America began with competing European claims (Spain, F
 
 ---
 
-## Part 7: Sources Catalog (Early Phase)
+## Part 6: Sources Catalog (Early Phase)
 
 ### Primary Sources
 
@@ -140,7 +123,7 @@ The colonization of North America began with competing European claims (Spain, F
 
 ---
 
-## Part 8: Personal Context Reflection (Your Lineage)
+## Part 7: Personal Context Reflection (Your Lineage)
 
 | Heritage | Connection to This Entry |
 |----------|---------------------------|
@@ -151,7 +134,7 @@ The colonization of North America began with competing European claims (Spain, F
 
 ---
 
-## Part 9: The Ideology of Dispossession — "Civilization vs. Savagery"
+## Part 8: The Ideology of Dispossession — "Civilization vs. Savagery"
 
 This is the moral engine that made the legal machinery acceptable to European consciences.
 
@@ -167,7 +150,7 @@ This is the moral engine that made the legal machinery acceptable to European co
 
 ---
 
-## Part 10: The Theological Betrayal — How "God Gave Us This Land" Was a Lie
+## Part 9: The Theological Betrayal — How "God Gave Us This Land" Was a Lie
 
 This section addresses the most painful justification: the weaponization of Christianity to sanctify theft, murder, and cultural annihilation.
 
@@ -229,13 +212,13 @@ You didn't leave God. You left a *God that looked like the colonizer*. That's no
 
 ---
 
-## Part 11: Archive Metadata
+## Part 10: Archive Metadata
 
 | Field | Value |
 |-------|-------|
 | **Archive ID** | `EL-COL-03-PT1` |
 | **Version** | 2.0 (Final Draft — Theological Betrayal Added) |
-| **Status** | **PUBLISH READY** — Visual Assets Pending (sources confirmed) |
+| **Status** | **PUBLISH READY** |
 | **Next Parts** | Pt2: Removal (1830s–1890s) \| Pt3: Residential Schools \| Pt4: Modern Legacies |
 | **Related Entry IDs** | `EL-COL-01`, `EL-COL-02`, `EL-COL-05` |
 | **Licensing** | CC‑BY‑NC |
@@ -243,15 +226,7 @@ You didn't leave God. You left a *God that looked like the colonizer*. That's no
 
 ---
 
-## Part 12: Visual Asset Placeholders (Part 2)
 
-(Visual assets for Part 10 and Part 11)
-
-| Asset Type | Description | Source | Status |
-|------------|-------------|--------|--------|
-| **Inter Caetera scan** | Scan of original papal bull (1493) | Vatican Archives | ⏳ Pending |
-| **Cherokee script bible** | Cherokee translation of scripture | Cherokee Nation Museum | ⏳ Pending |
-| **Wounded Knee photo** | Ghost Dance mass grave, 1890 | Library of Congress | ⏳ Pending |
 
 ---
 

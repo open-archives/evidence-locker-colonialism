@@ -3,7 +3,7 @@
 **Archive ID**: `EL-COL-01`  
 **Series**: Colonialism Series (`EL-COLONIALISM-SERIES-2026`)  
 **Compiled Date:** 13 Jul 2026  
-**Status**: Draft — Visual Assets Pending  
+**Status**: Draft  
 
 ---
 
@@ -69,30 +69,11 @@ The Berlin Conference convened 14 European powers plus the United States from No
 
 ---
 
-## Part 5: Visual Asset Placeholders
 
-| Asset Type | Description | Source | Status |
-|------------|-------------|--------|--------|
-| **Conference map** | "Africa Division Among European Powers 1885" | World History Encyclopedia | ⏳ Pending download |
-| **Treaty text** | Full General Act document | Wikisource | ⏳ Pending verification |
-| **Conference hall illustration**| Illustrierte Zeitung 1884 | Wikimedia Commons | ⏳ Pending download |
-| **Bismarck portrait** | Official conference host photograph | German Federal Archives | ⏳ Pending download |
-| **Pre-colonial ethnic maps** | Boundaries before European division | Academic cartography | ⏳ Research needed |
-| **Modern border overlay** | Colonial lines vs. ethnic groups | UN cartographic database | ⏳ Research needed |
-| **PBS documentary** | "Berlin Conference 1884-5" lesson | PBS LearningMedia | 🔗 Ready link |
-| **Icarus Films doc** | "Berlin 1885: Division of Africa" | YouTube | 🔗 Ready link |
-
-**Links Ready for Retrieval:**
-- [Britannica: Scramble for Africa](https://web.archive.org/web/20260714154735/https://www.britannica.com/event/Scramble-for-Africa)
-- [Britannica: Berlin Conference](https://web.archive.org/web/20260714165724/https://www.britannica.com/event/Berlin-West-Africa-Conference)
-- [General Act of Berlin PDF](https://web.archive.org/web/20260708201229/https://loveman.sdsu.edu/docs/1885GeneralActBerlinConference.pdf)
-- [World History Encyclopedia Entry](https://web.archive.org/web/20260714153947/https://www.worldhistory.org/Berlin_Conference_1884-5/)
-- [Al Jazeera Analysis](https://web.archive.org/web/20260714160534/https://www.aljazeera.com/news/2025/2/26/colonising-africa-what-happened-at-the-berlin-conference-of-1884-1885)
-- [YouTube Documentary Trailer](https://web.archive.org/web/20260714155101/https://www.youtube.com/watch?v=FTjBNppdk-M)
 
 ---
 
-## Part 6: Cross-References To Evidence Locker
+## Part 5: Cross-References To Evidence Locker
 
 | Related Entry | Connection |
 |---------------|------------|
@@ -103,7 +84,7 @@ The Berlin Conference convened 14 European powers plus the United States from No
 
 ---
 
-## Part 7: Open Questions & Data Gaps
+## Part 6: Open Questions & Data Gaps
 
 | Question | Data Available | Gap |
 |----------|----------------|-----|
@@ -115,7 +96,7 @@ The Berlin Conference convened 14 European powers plus the United States from No
 
 ---
 
-## Part 8: Sources Catalog
+## Part 7: Sources Catalog
 
 ### Primary Sources (Direct Records)
 
@@ -145,13 +126,13 @@ The Berlin Conference convened 14 European powers plus the United States from No
 
 ---
 
-## Part 9: Archive Metadata
+## Part 8: Archive Metadata
 
 | Field | Value |
 |-------|-------|
 | **Archive ID** | `EL-COL-01` |
 | **Version** | 1.0 (Draft) |
-| **Status** | In Progress — Visual Assets Pending |
+| **Status** | In Progress |
 | **Related Entry IDs** | `EL-COL-02`, `EL-PALANTIR-THIEL`, `EL-MEDIA-CONSOLIDATION` |
 | **Licensing** | CC-BY recommended for archival sharing |
 | **Backup Location** | Local NVMe (encrypted), Wayback mirror pending |
