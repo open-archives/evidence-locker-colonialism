@@ -204,4 +204,4 @@ The 19th-century colonial powers imposed **indemnities** — war reparations tha
 
 ---
 
-**Navigation**: [← Return to Colonialism Series Index](../README.md) | [← Previous: Part 2 — Mechanics & Scale](08-china-bri-pt2-mechanics.md) | [Next: Part 4 — Dual-Use Infrastructure →](#)
+**Navigation**: [← Return to Colonialism Series Index](../README.md) | [← Previous: Part 2 — Mechanics & Scale](08-china-bri-pt2-mechanics.md) | [Next: Part 4 — Dual-Use Infrastructure →](08-china-bri-pt4-dual-use.md)

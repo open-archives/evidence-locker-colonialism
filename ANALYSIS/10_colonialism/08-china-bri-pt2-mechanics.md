@@ -106,4 +106,4 @@ The Middle East has emerged as a primary destination, with **cumulative BRI inve
 
 ---
 
-**Navigation**: [← Return to Colonialism Series Index](../README.md) | [← Previous: Part 1 — Historical Parallel (Opium to Fentanyl)](08-china-bri-pt1-history.md) | Next: Part 3 — The "Debt-Trap" Debate →
+**Navigation**: [← Return to Colonialism Series Index](../README.md) | [← Previous: Part 1 — Historical Parallel (Opium to Fentanyl)](08-china-bri-pt1-history.md) | [Next: Part 3 — The "Debt-Trap" Debate →](08-china-bri-pt3-debt.md)

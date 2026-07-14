@@ -1,6 +1,6 @@
-# Evidence Locker Entry: China & The Belt and Road Initiative as Neocolonialism?
+# Evidence Locker Entry 8: China & The Belt and Road Initiative — Part 1: Historical Parallel
 
-**Archive ID**: `EL-COL-08-CHINA-BRI-2026`  
+**Archive ID**: `EL-COL-08-CHINA-BRI-PT1-2026`  
 **Series**: Colonialism Series (`EL-COLONIALISM-SERIES-2026`)  
 **Compiled Date**: 14 Jul 2026  
 **Version**: 1.1  
@@ -77,27 +77,19 @@ Chinese state media and officials frequently cite the Opium Wars as the beginnin
 
 ### 2.2 Factual Landscape (2025–2026)
 China's massive chemical and pharmaceutical sector makes it a primary global source of fentanyl precursors and related equipment.
-- Following 2019 class-wide controls on fentanyl substances, direct shipments of finished fentanyl from China to the United States dropped sharply. Production largely shifted to Mexico (and smaller-scale operations in Canada), relying on Chinese-origin precursors.
+- Following 2019 class-wide controls on fentanyl substances, direct shipments of finished fentanyl from China to the United States dropped sharply. Production largely shifted to Mexico, relying on Chinese-origin precursors.
 - US intelligence continues to identify China (along with India) as the main source countries for precursors used by transnational criminal organizations.
-- Canada has seen repeated dismantling of clandestine fentanyl synthesis labs, particularly in Western provinces and Ontario. Many operations involve imported precursors traced to Asian sources.
 
 **China's Official Position**: The opioid crisis is primarily a problem of Western demand. China has strengthened domestic scheduling, cooperated with international partners (including post-2025 US summits), and imposed export controls on specific chemicals to North America.
 
 **Critical Perspectives**: Despite regulatory efforts, precursor flows continue. Some view this as hybrid warfare, economic retaliation, or at minimum negligent tolerance of criminal networks within China's vast industrial base.
-
-### 2.3 Canada-Specific Elements
-- **Drug Labs & Precursors**: Canadian law enforcement (RCMP, Health Canada) report frequent seizures of fentanyl and precursors. Clandestine labs have been dismantled, with some chemicals linked to Asian imports.
-- **Overseas Police Service Stations**: Since 2022, reports alleged Chinese "service stations" in Toronto, Vancouver, and Montreal. These were described by China as community/consular support centers (passport renewal, driver's licenses). Canadian authorities summoned the Chinese ambassador, and the RCMP investigated multiple sites. Results have been mixed: some investigations closed without charges; community organizations denied wrongdoing, sued for defamation, and reported loss of funding/programs. Broader concerns involve diaspora monitoring and transnational repression.
-- **Military & Security Ties**: Direct PLA-Canada military training remains limited and under heavy scrutiny amid broader foreign interference concerns. Focus has been on cyber, talent programs, and economic influence rather than overt bases.
 
 ### Claim-vs-Evidence Table — Fentanyl & Influence
 
 | Claim | Supported by Data? | Source Evidence | Qualifiers |
 |-------|--------------------|-----------------|------------|
 | China primary source of fentanyl precursors | ✅ Significant role | US State Dept, DNI assessments 2025–2026 | Direct fentanyl shipments reduced post-2019; third-country synthesis dominant |
-| Precursors linked to Canadian clandestine labs | ✅ Yes | Health Canada, RCMP lab reports | Domestic production also exists; precursors often routed through legitimate trade |
-| Chinese overseas police stations operating in Canada | ⚠️ Investigated & Contested | Safeguard Defenders, RCMP probes, parliamentary records | China calls them service centers; investigations yielded mixed outcomes; community pushback |
-| Deliberate "turning the tables" policy | ❌ Speculative / Narrative | Commentary in some US/Canadian circles | No smoking-gun declassified evidence of coordinated CCP revenge operation |
+| Deliberate "turning the tables" policy | ❌ Speculative / Narrative | Commentary in some US circles | No smoking-gun declassified evidence of coordinated CCP revenge operation |
 
 ---
 
@@ -226,4 +218,4 @@ China's massive chemical and pharmaceutical sector makes it a primary global sou
 
 ---
 
-**Navigation**: [← Return to Colonialism Series Index](../README.md) | [Next: Part 2 — What the BRI Is →](#part-2-what-the-bri-is)
+**Navigation**: [← Return to Colonialism Series Index](../README.md) | [Next: Part 2 — Mechanics & Scale →](08-china-bri-pt2-mechanics.md)
