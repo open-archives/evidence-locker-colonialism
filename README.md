@@ -22,7 +22,19 @@ This is not abstract history. It is **family history** — Irish, Native America
 
 ---
 
-## Series Structure
+## High-Level Index & Pillars
+
+The Evidence Locker is organized into major thematic pillars:
+
+- **10_colonialism**: Archiving colonialism as a global, interconnected system of extraction, dispossession, and ideological control (core: Berlin Conference `EL-COL-01`).
+- **03_finance**: Global monetary architecture, dollar dominance, petrodollar recycling, and de-dollarization pressures (core: Bretton Woods `EL-FINANCE-01`).
+
+### Key Interconnections
+- **Colonialism ↔ Finance**: The extractive mechanisms established during the colonial era (resource theft, forced labor) laid the foundation for the modern global financial system. Today, Bretton Woods institutions (IMF, World Bank) and structural adjustment programs often enforce debt dependency, functioning as modern extensions of colonial extraction ("neocolonialism").
+
+---
+
+## Detailed Series Structure (Colonialism)
 
 ```
 ANALYSIS/10_colonialism/
