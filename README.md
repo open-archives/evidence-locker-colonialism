@@ -2,6 +2,10 @@
 
 **Archiving colonialism as a global system — Africa, Indochina, North America, South America.**
 
+**Version:** 2.0 (Refined)  
+**Status:** PUBLISH READY  
+**Tags:** `#colonialism` `#neocolonialism` `#hegemony` `#extraction` `#systemic-power`
+
 ---
 
 ## What This Is

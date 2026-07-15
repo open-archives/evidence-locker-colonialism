@@ -4,7 +4,8 @@
 **Series**: Financial Systems & Global Power  
 **Compiled Date:** 14 Jul 2026  
 **Version:** 2.0 (Refined)  
-**Status:** PUBLISH READY
+**Status:** PUBLISH READY  
+**Tags:** `#bretton-woods` `#petrodollar` `#dedollarization` `#imf` `#triffin` `#hegemony`
 
 ---
 
